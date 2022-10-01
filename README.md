@@ -1,15 +1,15 @@
 <h1 align="left"> Olá! Sou Thiago Cortez Pizzolatto! ฅ/ᐠ｡ᆽ｡ᐟ \ </h1>
 
-<p> 📜 <i>Atualmente estou cursando</i> <b>ciência da computação</b> <i>pela</i> <a href="https://www.unip.br/" target="_blank">UNIP</a> </p>
-<p> 💜 <i>Apaixonado por RPG, Pokémon e Tecnologia!<i/><p>
-
-
-
+<div>
+  <p> 📜 <i>Atualmente estou cursando</i> <b>ciência da computação</b> <i>pela</i> <a href="https://www.unip.br/" target="_blank">UNIP</a>. </p>
+  <p> 💜 <i>Apaixonado por RPG, Pokémon e Tecnologia!<i/><p>
+</div>
 
 <hr>
-<p> Redes Socias </p>
 
-
+<div>
+  <p> Redes Sociais </p>
+</div>
 
 <hr>
 
