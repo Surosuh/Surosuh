@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently in my 3rd year of Computer Science.<br>Being Passionate about technology all my life<br>Constantly learning and growing as a future developer<br><br>I'm a curious learner who loves exploring new technologies and programming languages. <br>Whether it's diving into web development, experimenting with new algorithms.<br>In general any kind of tech catches my attention.<br>My goal is to become a skilled developer.</p>
+<p align="left">Currently in my 4th year of Computer Science.<br>Being Passionate about technology all my life<br>Constantly learning and growing as a future developer<br><br>I'm a curious learner who loves exploring new technologies and programming languages. <br>Whether it's diving into web development, experimenting with new algorithms.<br>In general any kind of tech catches my attention.<br>My goal is to become a skilled developer.</p>
 
 ###
 
